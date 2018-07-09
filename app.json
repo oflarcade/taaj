@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "taaaj",
+    "description": "This project is really great.",
+    "slug": "taaaj",
+    "privacy": "public",
+    "sdkVersion": "28.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/asset/images/logo.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B610B"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
